@@ -1,0 +1,45 @@
+{
+    "chart_title": "Population by Country",
+    "data_points": [
+        {
+            "label": "United States",
+            "value": 340
+        },
+        {
+            "label": "China",
+            "value": 1400
+        },
+        {
+            "label": "India",
+            "value": 1450
+	},
+        {
+            "label": "Japan",
+            "value": 124
+	},
+        {
+            "label": "Germany",
+            "value": 84
+	},
+        {
+            "label": "United Kingdom",
+            "value": 69
+	},
+        {
+            "label": "France",
+            "value": 68
+	},
+        {
+            "label": "Brazil",
+            "value": 212
+	},
+        {
+            "label": "Canada",
+            "value": 41
+	},
+        {
+            "label": "Australia",
+            "value": 27
+        }
+    ]
+}
